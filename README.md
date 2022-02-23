@@ -1,4 +1,4 @@
-# Black Jack Card Game in Python
+# Blackjack Card Game in Python
 
 
 This code is based on one of <i>Calm Programming</i> sessions of Al Sweigart (author of the iconic book: <i>Automate the Boring Stuff with Python</i>).
